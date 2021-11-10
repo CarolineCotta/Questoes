@@ -10,7 +10,7 @@
       "opcao3": "A asserção | é uma proposição verdadeira, e a || é uma proposição falsa.",
       "opcao4": "A asserção | é uma proposição falsa, e a || é uma proposição verdadeira.",
       "opcao5": "As asserções | e || são proposições falsas.",
-      "Correta": "As asserções | e || são proposições verdadeiras, e a || é uma justificativa correta da |."
+      "Correta": 1
     },
     
     {
@@ -23,7 +23,7 @@
       "opcao3": "||, apenas.",
       "errada4": "|| e |||, apenas.",
       "opcao5": " |, || e |||.",
-      "Correta": "| e |||, apenas."
+      "Correta": 1
     }
   ]
 }
