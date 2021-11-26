@@ -4,12 +4,12 @@
       "id": 1,
       "Corpo_Questão_citacao": "O trecho da música 'Nos Bailes da Vida', de Milton Nascimento, 'todo artista tem de ir aonde o povo está', é antigo, e a música, de tão tocada, acabou por se tornar um estereótipo de tocadores de violões e de rodas de amigos em Visconde de Mauá, nos anos 1970. Em tempos digitais, porém, ela ficou mais atual do que nunca. É fácil entender o porquê: antigamente, quando a informação se concentrava em centros de exposição, veículos de comunicação, editoras, museus e gravadoras, era preciso passar por uma série de curadores, para garantir a publicação de um artigo ou livro, a gravação de um disco ou a produção de uma exposição. O mesmo funil, que poderia ser injusto e deixar grandes talentos de fora, simplesmente porque não tinham acesso às ferramentas, às pessoas ou às fontes de informação, também servia como filtro de qualidade. Tocar violão ou encenar uma peça de teatro em um grande auditório costumava ter um peso muito maior do que fazê-lo em um bar, um centro cultural ou uma calçada. Nas raras ocasiões em que esse valor se invertia, era justamente porque, para uso do espaço 'alternativo', havia mecanismos de seleção tão ou mais rígidos que os do espaço oficial.",
       "Citacao": "RADFAHRER, L. Todo artista tem de ir aonde o povo está.Disponível em: <http://novo.itaucultural.org.br>. Acesso em: 29 jul. 2014 (adaptado).",
-      "pergunta": "A partir do texto acima, avalie as asserções a seguir e a relação proposta entre elas.\n |.O processo de evolução tecnológica da atualidade democratiza a produção e a divulgação de obras artísticas, reduzindo a importância que os centros de exposição tinham nos anos 1970.\n PORQUE\n ||.As novas tecnologias possibilitam que artistas sejam independentes, montem seus próprios ambientes de produção e disponibilizem seus trabalhos, de forma simples, para um grande número de pessoas.\n A respeito dessas asserções, assinale a opção correta.",
-      "opcao1": "As asserções | e || são proposições verdadeiras, e a || é uma justificativa correta da |.",
-      "opcao2": "As asserções | e || são proposições verdadeiras, mas a || não é uma justificativa correta da |.",
-      "opcao3": "A asserção | é uma proposição verdadeira, e a || é uma proposição falsa.",
-      "opcao4": "A asserção | é uma proposição falsa, e a || é uma proposição verdadeira.",
-      "opcao5": "As asserções | e || são proposições falsas.",
+      "pergunta": "A partir do texto acima, avalie as asserções a seguir e a relação proposta entre elas.\n 1.O processo de evolução tecnológica da atualidade democratiza a produção e a divulgação de obras artísticas, reduzindo a importância que os centros de exposição tinham nos anos 1970.\n PORQUE\n 2.As novas tecnologias possibilitam que artistas sejam independentes, montem seus próprios ambientes de produção e disponibilizem seus trabalhos, de forma simples, para um grande número de pessoas.\n A respeito dessas asserções, assinale a opção correta.",
+      "opcao1": "As asserções 1 e 2 são proposições verdadeiras, e a 2 é uma justificativa correta da 1.",
+      "opcao2": "As asserções 1 e 2 são proposições verdadeiras, mas a 2 não é uma justificativa correta da 1.",
+      "opcao3": "A asserção 1 é uma proposição verdadeira, e a 2 é uma proposição falsa.",
+      "opcao4": "A asserção 1 é uma proposição falsa, e a 2 é uma proposição verdadeira.",
+      "opcao5": "As asserções 1 e 2 são proposições falsas.",
       "Correta": 1
     },
     
@@ -17,13 +17,26 @@
       "id": 2,
       "Corpo_Questão_citacao": "Com a globalização da economia social por meio das organizações não governamentais, surgiu uma discussão do conceito de empresa, de sua forma de concepção junto às organizações brasileiras e de suas práticas. Cada vez mais, é necessário combinar as políticas públicas que priorizam modernidade e competividade com o esforço de incorporação dos setores atrasados, mais intensivos de mão de obra.",
       "Citacao": "Disponível em: <http://unpanl.un.org>. Acesso em: 4 ago. 2014 (adaptado).",
-      "pergunta": "A respeito dessa temática, avalie as afirmações a seguir.\n |. O terceiro setor é uma mistura dos dois setores econômicos clássicos da sociedade: o público, representado pelo Estado, e o privado, representado pelo empresariado em geral.\n ||. É o terceiro setor que viabiliza o acesso da sociedade à educação e ao desenvolvimento de técnicas industriais, econômicas, financeiras, políticas e ambientais.\n ||. A responsabilidade social tem resultado na alteração do perfil corporativo e estratégico das empresas, que têm reformulado a cultura e a filosofia que orientam as ações institucionais.\n Está correto o que se afirma em",
-      "opcao1": "| e |||, apenas.",
-      "opcao2": "|, apenas.",
-      "opcao3": "||, apenas.",
-      "opcao4": "|| e |||, apenas.",
-      "opcao5": " |, || e |||.",
+      "pergunta": "A respeito dessa temática, avalie as afirmações a seguir.\n 1. O terceiro setor é uma mistura dos dois setores econômicos clássicos da sociedade: o público, representado pelo Estado, e o privado, representado pelo empresariado em geral.\n 2. É o terceiro setor que viabiliza o acesso da sociedade à educação e ao desenvolvimento de técnicas industriais, econômicas, financeiras, políticas e ambientais.\n 3. A responsabilidade social tem resultado na alteração do perfil corporativo e estratégico das empresas, que têm reformulado a cultura e a filosofia que orientam as ações institucionais.\n Está correto o que se afirma em",
+      "opcao1": "1 e 3, apenas.",
+      "opcao2": "1, apenas.",
+      "opcao3": "2, apenas.",
+      "opcao4": "2 e 3, apenas.",
+      "opcao5": " 1, 2 e 3.",
       "Correta": 1
     }
+    {
+    "id":3,
+    "Corpo_Questão_citacao":"Uma ideia e um aparelho simples devem, em breve, ajudar a salvar vidas de recém-nascidos. Idealizado pelo mecânico argentino Jorge Odón, o dispositivo que leva seu sobrenome desentala um bebê preso no canal vaginal - e, por mais inusitado que pareça, foi criado com base em técnica usada para remover rolhas de dentro de garrafas. O aparelho consiste em uma bolsa plástica inserida em uma proteção feita do mesmo material e que envolve a cabeça da criança. Estando o dispositivo devidamente posicionado, a bolsa é inflada para aderir à cabeça do bebê e ser puxada aos poucos, de forma a não machucá-lo. O método de Odón deve substituir outros já arcaicos, como o de fórceps e o de tubos de sucção, os quais, se usados por mãos maltreinadas, podem comprometer a vida do bebê, o que, segundo especialistas, não deve acontecer com o novo equipamento.\n Segundo o The New York Times, a ideia recebeu apoio da Organização Mundial de Saúde (OMS) e já foi até licenciada por uma empresa norte-americana de tecnologia médica. Não se sabe quando o equipamento começará a ser produzido nem o preço a ser cobrado, mas presume-se que ele não passará de 50 dólares, com redução do preço em países mais pobres.",
+    "Citacao":"GUSMÃO, G. Aparelho deve facilitar partos em situações de emergência. Disponível em <http://exame.abril.com.br>. Acesso em: 18 nov. 2013 (adaptado).",
+    "pergunta": "Com relação ao texto acima, avalie as afirmações a seguir.\n 1. A utilização do método de Odón poderá reduzir a taxa de mortalidade de crianças ao nascer, mesmo em países pobres.\n 2. Por ser uma variante dos tubos de sucção, o aparelho desenvolvido por Odón é resultado de aperfeiçoamento de equipamentos de parto.\n 3. Por seu uso simples, o dispositivo de Odon tem grande potencial de ser usado em países onde o parto é usualmente realizado por parteiras.\n 4. A possibilidade de, em países mais pobres, reduzir-se o preço do aparelho idealizado por Odón evidencia preocupação com a responsabilidade social.\n É correto apenas o que se afirma em",
+    "opcao1": "1 e 2.",
+      "opcao2": "1 e 4.",
+      "opcao3": "2,3 e 4.",
+      "opcao4": "2 e 3.",
+      "opcao5": " 1,3 e 4.",
+      "Correta": 5
+    }
+
   ]
 }
